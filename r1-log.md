@@ -1,10 +1,17 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - James Delles
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on April 27, 2021.
+
+I intend to work through The Odin Project - JavaScript path. https://www.theodinproject.com/
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+- Registered for an account
+- Connected to GitHub
+
+- Foundations: How This Course Will Work
+- Foundations: Introduction to Web Development
+- Foundations: Motivation and Mindset
 
 ### R1D2

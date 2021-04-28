@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 27, 2021
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**
+- "... The wind was not the beginning. There are neither beginnings nor endings to the Wheel of Time. But it was a beginning." 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Registered for https://www.theodinproject.com/ (found in resources!) and connected to GitHub
+- Joined the Discord server
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+- Foundations: How this course will work
+- Foundations: Introduction to Web Development
+- Foundations: Motivation and Mindset
 
 
-### Day 1: June 27, Monday
+**Thoughts:** 
+Intentions: To supplement my CS education @NCState by stiving for 100 days of code. The Odin Project has 105 lessons in the foundations and JavaScript path. If I am able to complete them all before 100 days, I will find something else to work on. 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+Commitment: I will push to GitHub every day and tweet out the days progress. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 1: April 28, 2021
+##### 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: 
+
+**Thoughts**: 
