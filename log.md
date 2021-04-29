@@ -24,4 +24,22 @@ Commitment: I will push to GitHub every day and tweet out the days progress.
 
 **Today's Progress**: 
 
+- Foundations: Join the Odin community
+- Foundations: How does the web work? 
+- Foundations: Installation overview
+- Foundations: Prerequisites
+- Foundations: Text editors
+- Foundations: Command line basics
+- Foundations: Setting up git
+- Foundations: Introduction to git
+- Foundations: Git basics
+
 **Thoughts**: 
+Got caught up sharing a Knights and Knaves puzzle with my team and my daughters today.
+
+Installation overview almost has me convinced to install Ubantu on my shiny new macbook pro... almost. 
+
+Most importantly, I learned how to manage 2 github accounts with different SSH keys; One for school and one for my personal account!
+
+### Day 2: April 29, 2021
+##### 

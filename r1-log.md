@@ -15,3 +15,13 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 - Foundations: Motivation and Mindset
 
 ### R1D2
+
+- Foundations: Join the Odin community
+- Foundations: How does the web work? 
+- Foundations: Installation overview
+- Foundations: Prerequisites
+- Foundations: Text editors
+- Foundations: Command line basics
+- Foundations: Setting up git
+- Foundations: Introduction to git
+- Foundations: Git basics
