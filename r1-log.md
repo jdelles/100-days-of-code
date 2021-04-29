@@ -6,7 +6,7 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 
 ## Log
 
-### R1D1 
+### R1D0
 - Registered for an account
 - Connected to GitHub
 
@@ -14,7 +14,7 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 - Foundations: Introduction to Web Development
 - Foundations: Motivation and Mindset
 
-### R1D2
+### R1D1
 
 - Foundations: Join the Odin community
 - Foundations: How does the web work? 
@@ -25,3 +25,8 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 - Foundations: Setting up git
 - Foundations: Introduction to git
 - Foundations: Git basics
+
+### R1D2
+- Had some CS class extra credit to work on.
+- Built out Java based Tic Tac Toe game and played it with the kids 
+- Hoping to get back to TOP Foundations later tonight. 
