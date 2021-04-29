@@ -43,3 +43,12 @@ Most importantly, I learned how to manage 2 github accounts with different SSH k
 
 ### Day 2: April 29, 2021
 ##### 
+
+**Today's Progress**: 
+
+- Had some CS class extra credit to work on.
+- Built out Java based Tic Tac Toe game and played it with the kids 
+- Hoping to get back to TOP Foundations later tonight. 
+
+**Thoughts**: 
+Tic Tac Toe was one of the final projects available for my intro CS course last fall. I chose to build MasterMind instead.... and it took weeks and a teammate. Tic Tac Toe on the other hand took less than a day and that's with figuring out how to build a simple but nice looking GUI to go with it. 
