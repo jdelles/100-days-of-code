@@ -71,6 +71,18 @@ index.html
 
 The same article also talked about separating words with in a file name or url with - instead of _ because Google search regards a - as a word separator but does not consider an _ to be so. Spaces are also to be avoided because not all browsers handle spaces the same way. 
 
+### Day 4: May 1, 2021
+##### 
+
+**Today's Progress**: 
+- Searching and sorting algorithms in CS for extra credit 
+- Foundations: Introduction to the front-end
+- Foundations: HTML and CSS Basics
+- - - Refers to https://www.freecodecamp.org/learn/responsive-web-design/ (looks like we'll be on this step for bit!)
+
+**Thoughts**: 
+Squeezed in an hour between running, grocery shopping and tennis. Weekends may be the toughest to stick with an hour a day. 
+
 
 ### Day X: MM DD, YYYY
 ##### 

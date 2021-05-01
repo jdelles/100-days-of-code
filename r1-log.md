@@ -35,3 +35,10 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 ### R1D3
 - Foundations: Introduction to the front-end - in progress
 
+## R1D4
+- Searching and sorting algorithms in CS for extra credit 
+- Foundations: Introduction to the front-end
+- Foundations: HTML and CSS Basics
+- - - Refers to https://www.freecodecamp.org/learn/responsive-web-design/ (looks like we'll be on this step for bit!)
+
+
