@@ -84,6 +84,30 @@ The same article also talked about separating words with in a file name or url w
 Squeezed in an hour between running, grocery shopping and tennis. Weekends may be the toughest to stick with an hour a day. 
 
 
+### Day 5: May 2, 2021
+##### 
+
+**Today's Progress**: 
+- Seaching, Sorting and Binary Search Trees in my CS class
+- Worked on website
+
+**Thoughts**: 
+- Focus was getting through the last few elements of my CS classes. Should be getting a 4.0 this term! 
+- Heading back to freeCodeCamp next
+
+### Day 6: May 3, 2021
+##### 
+
+**Today's Progress**: 
+- freeCodeCamp: Learn Basic CSS
+- freeCodeCamp: Applied Visual Design
+- freeCodeCamp: Applied Accessibility
+
+**Thoughts**: 
+These courses are well structured. I may incorporate this into my training program at work soon. They keep asking for $5 - I gave it to them. Invest in your dreams! 
+
+I actually learned a fair bit about CSS animation. It was fun to color in a penguin, make a heart, and make the heart beat! The 300 hour estimate seems excessive - but I also haven't hit the projects yet! 
+
 ### Day X: MM DD, YYYY
 ##### 
 
