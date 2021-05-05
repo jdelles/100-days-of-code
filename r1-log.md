@@ -48,4 +48,6 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 ### R1D6
 - freeCodeCamp: Learn Basic CSS
 - freeCodeCamp: Applied Visual Design
+
+### R1D7
 - freeCodeCamp: Applied Accessibility

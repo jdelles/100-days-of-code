@@ -108,6 +108,17 @@ These courses are well structured. I may incorporate this into my training progr
 
 I actually learned a fair bit about CSS animation. It was fun to color in a penguin, make a heart, and make the heart beat! The 300 hour estimate seems excessive - but I also haven't hit the projects yet! 
 
+### Day 7: May 4, 2021
+##### 
+
+**Today's Progress**: 
+- freeCodeCamp: Applied Accessibility
+
+**Thoughts**: 
+Learned a bunch of new markup that I did not know before! Accessibility is a hot topic right now and being able to do better after these lessons is awesome! 
+
+Today was also the last day of the semester for me - I had a few quiz retakes and got through them. My Data Structures class starts in a little over 2 weeks. 
+
 ### Day X: MM DD, YYYY
 ##### 
 
