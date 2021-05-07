@@ -51,3 +51,10 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 
 ### R1D7
 - freeCodeCamp: Applied Accessibility
+
+### R1D8
+- Markup on tons of content at work - count it.... 
+
+### R1D9
+- freeCodeCamp: Responsive Web Design Principles
+- freeCodeCamp: CSS Flexbox

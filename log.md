@@ -119,6 +119,26 @@ Learned a bunch of new markup that I did not know before! Accessibility is a hot
 
 Today was also the last day of the semester for me - I had a few quiz retakes and got through them. My Data Structures class starts in a little over 2 weeks. 
 
+### Day 8: May 5, 2021
+##### 
+
+**Today's Progress**: 
+- I'm counting work today - I got to apply some of what I learned in the accessibility lesson yesterday to a ton of new content we're rolling out. I don't want to see any more HTML today! 
+
+**Thoughts**: 
+Today was an applied learning day. I've only been doing this challenge for a week and it already has application at work. 
+
+
+### Day 9: May 6, 2021
+##### 
+
+**Today's Progress**: 
+- freeCodeCamp: Responsive Web Design Principles
+- freeCodeCamp: CSS Flexbox
+
+**Thoughts**: 
+I've been using flexboxes for a while. Next up is grid and other than a little copying stuff in bootstrap, I don't have a much experience there. On to grid and projects tomorrow!! 
+
 ### Day X: MM DD, YYYY
 ##### 
 
