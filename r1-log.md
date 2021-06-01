@@ -58,3 +58,71 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 ### R1D9
 - freeCodeCamp: Responsive Web Design Principles
 - freeCodeCamp: CSS Flexbox
+
+### R1D10
+- freeCodeCamp: CSS Grid
+- freeCodeCamp: Responsive Web Design Certification: Tribute Page (Snow Leopards!)
+
+### R1D11
+- freeCodeCamp: Responsive Web Design Certification: Tribute Page (Snow Leopards!)
+
+### R1D12
+- freeCodeCamp: Responsive Web Design Certification: Build a Survey Form (Networking)
+
+### R1D13
+- freeCodeCamp: Responsive Web Design Certification: Build a Survey Form (Networking)
+
+### R1D14
+- freeCodeCamp: Responsive Web Design Certification: Product Landing Page (Spacely Sprockets)
+
+### R1D15
+- freeCodeCamp: Responsive Web Design Certification: Product Landing Page (Spacely Sprockets) 
+
+### R1D16
+- freeCodeCamp: Responsive Web Design Certification: Technical Documentation Page (Java Linked List) 
+
+### R1D17
+- freeCodeCamp: Responsive Web Design Certification: Technical Documentation Page (Java Linked List) 
+
+### R1D18
+- freeCodeCamp: Responsive Web Design Certification: Technical Documentation Page (Java Linked List) 
+
+### R1D19
+- Figured out why GitHub wasn't counting my commits - I needed to setup SSH keys for my school and personal accounts
+- I could also set the user.name and user.email in each individual clone directory
+
+### R1D20
+- freeCodeCamp: Responsive Web Design Certification: Personal Porfolio 
+
+### R1D21
+- Classes began - NCSU CSC316 Data Structures and Algorithms
+
+### R1D22
+- So much school work! 
+
+## R1D23
+- Finished freeCodeCamp Responsive Web Design Certification - added to LinkedIn! 
+
+### R1D24-25
+- Camping Disconnect from life and chill. 
+
+### R1D26
+- Grokking Algorithms arrive and began work on The Odin Project: Google Homepage
+
+### R1D27-28
+- School work: 1st project due at the end of the week
+
+### R1D29
+- The Odin Project: Google Homepage - learned to make a circular box shadow 
+
+### R1D30
+- School work: 1st project - various sorting algorithms in Java
+
+### R1D31
+- School work: Stacks and Queue implementations in Java using arrays and linked lists 
+
+### R1D32
+- School work: 2nd project - linked list with tail and head pointers
+
+### R1D33
+- The Odin Project: Google Home Page - submitted and started on JavaScript foundations

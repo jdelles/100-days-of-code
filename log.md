@@ -139,6 +139,11 @@ Today was an applied learning day. I've only been doing this challenge for a wee
 **Thoughts**: 
 I've been using flexboxes for a while. Next up is grid and other than a little copying stuff in bootstrap, I don't have a much experience there. On to grid and projects tomorrow!! 
 
+
+
+
+https://codepen.io/jdelles/pen/JjWdZyb
+
 ### Day X: MM DD, YYYY
 ##### 
 
