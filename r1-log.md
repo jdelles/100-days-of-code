@@ -126,3 +126,9 @@ I intend to work through The Odin Project - JavaScript path. https://www.theodin
 
 ### R1D33
 - The Odin Project: Google Home Page - submitted and started on JavaScript foundations
+
+### R1D34
+- School work: Positional lists implementation
+
+### R1D35
+- School work: More positional lists - got my junit tests passing!
